@@ -1,3 +1,5 @@
+Updated 'Vali2'
+Updated 'VAli'
 updated and checking the senario
 I am updating this file again to test cherry-pick command in stage branch
 This file contains the deployment script
