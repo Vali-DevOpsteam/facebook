@@ -1,3 +1,5 @@
+Updating this to check stash command.
+
 This file contains the deployment script
 
 again updted this file.
